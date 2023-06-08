@@ -1,6 +1,7 @@
-<footer style="background-image: url(assets/images/bg-footer.png);">
-<div class="col-md-12 footer-img">
+<footer class="bg-footer" style="background-image: url(assets/images/bg-footer.png);">
+<div class="col-md-12 footer-box">
 	<img src="assets/images/footer-logo.png" alt="">
+	<h3>Keep always updated with our fresh blog posts</h3>
 </div>
    <div class="container" >
    	<div class="row">

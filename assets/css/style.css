@@ -463,6 +463,25 @@ ul.dropdown li a:hover {
     position: relative;
 }
 /***************************** footer*************************************/
+.bg-footer{
+    padding-top: 110px;
+    padding-bottom: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footer-box{
+    text-align: center;
+}
+.footer-box img{
+    padding-bottom: 40px;
+}
+.footer-box h3{
+    color: #fff;
+    font-size: 23px;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+
 .widget{
     border-right: 1px solid #555555;
     text-align: center;
@@ -477,9 +496,19 @@ ul.dropdown li a:hover {
     color: #555555;
     font-size: 20px;
     font-weight: normal;
+    padding-bottom: 30px;
 }
-
-
+.widget i{
+    color: #fff;
+    background-color: #000;
+    height: 0%;
+    width: 13%;
+    padding: 16px;
+    border-radius: 26px;
+}
+.copyright{
+    padding-top: 100px;
+}
 /***************************** footer*************************************/
 
 
