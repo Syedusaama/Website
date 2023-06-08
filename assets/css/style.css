@@ -458,8 +458,12 @@ ul.dropdown li a:hover {
     background-position: center;
     background-repeat: no-repeat;
     display: flex;
-    align-items: center;
+    height: 950px;
+    align-items: end;
     position: relative;
+}
+.banner-box{
+    margin-bottom: -200px;
 }
 .banner-content{
     text-align: center;

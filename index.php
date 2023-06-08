@@ -16,12 +16,14 @@
     <!----------------  main-banner  -------------------->
     <section class="main-banner" style="background-image: url(assets/images/bg-banner.png);">
         <div class="container">
+            <div class="banner-box">
             <div class="banner-content">
                 <h1>SHAPRO</h1>
                 <h2>Ultimate tool For website building</h2>
             </div>
             <div class="banner-img">
                 <img src="assets/images/banner-cart.png" alt="">
+            </div>
             </div>
         </div>
     </section>
