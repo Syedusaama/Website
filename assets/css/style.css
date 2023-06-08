@@ -453,14 +453,21 @@ ul.dropdown li a:hover {
 
 /* Main Banner CSS */
 
-.mainBanner {
+.main-banner {
     background-size: cover;
     background-position: center;
-    height: 100vh;
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
     position: relative;
+}
+.banner-content{
+    text-align: center;
+}
+.banner-content h1{
+    font-size: 145px;
+    color: #fff;
+    font-weight: bold;
 }
 /***************************** footer*************************************/
 .bg-footer{
