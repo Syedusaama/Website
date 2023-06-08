@@ -10,11 +10,129 @@
 
 <body>
     <?php include("includes/header.php"); ?>
-    <div class="mainBanner" style="background-image:url(assets/images/banner/bg-banner.jpg); ">
+
+
+
+    <!----------------  main-banner  -------------------->
+    <section class="main-banner">
         <div class="container">
 
         </div>
-    </div>
+    </section>
+    <!----------------  main-banner  -------------------->
+
+
+
+    <!----------------  Replace Your Microservices With One Simple App.  --------------------> 
+    <section class="">
+        <div class="container">
+
+        </div>
+    </section>
+    <!----------------  Replace Your Microservices With One Simple App.  --------------------> 
+
+
+    <!----------------  Track Customer, Sales & Order Booking  -------------------->
+    <section class="">
+        <div class="container">
+
+        </div>
+    </section> 
+    <!----------------  Track Customer, Sales & Order Booking  --------------------> 
+
+    <!----------------  fourth section  -------------------->
+    <section class="">
+        <div class="container">
+
+        </div>
+    </section> 
+    <!----------------  fourth section  --------------------> 
+
+    <!----------------  fith section  --------------------> 
+    <section class="">
+        <div class="container">
+
+        </div>
+    </section>
+    <!----------------  fith section  --------------------> 
+
+
+
+    <!----------------  sith section  -------------------->
+    <section class="">
+        <div class="container">
+
+        </div>
+    </section> 
+    <!----------------  sith section  --------------------> 
+
+
+    <!----------------  fortfolio  --------------------> 
+    <section class="">
+        <div class="container">
+
+        </div>
+    </section>
+    <!----------------  fortfolio  --------------------> 
+
+    <!----------------  testimonials  --------------------> 
+    <section class="">
+        <div class="container">
+
+        </div>
+    </section>
+    <!----------------  testimonials  -------------------->
+
+    <!----------------  Awesome Solutions 100% Success  -------------------->
+    <section class="">
+        <div class="container">
+
+        </div>
+    </section>
+    <!----------------  Awesome Solutions 100% Success  -------------------->
+
+
+
+    <!----------------  Professional Team  -------------------->
+    <section class="">
+        <div class="container">
+
+        </div>
+    </section>
+    <!----------------  Professional Team  -------------------->
+    
+
+
+    <!----------------  Replace Your Microservices With One Simple App. -------------------->
+    <section class="">
+        <div class="container">
+
+        </div>
+    </section>
+    <!----------------  Replace Your Microservices With One Simple App. -------------------->
+
+
+
+    <!----------------  pricing. -------------------->
+    <section class="">
+        <div class="container">
+
+        </div>
+    </section>
+    <!----------------  pricing. -------------------->
+
+
+
+    <!----------------  blogs. -------------------->
+    <section class="">
+        <div class="container">
+
+        </div>
+    </section>
+    <!----------------  blogs. -------------------->
+
+
+
 
     <?php include("includes/footer.php"); ?>
     <?php include("includes/scripts.php"); ?>
