@@ -23,6 +23,7 @@
    		<div class="col-md-4">
    			<div class="widget">
 			   <h2>Gallery images</h2>
+			   <img src="assets/images/gallery-images.png" alt="">
    			</div>
    		</div>
    	</div>
