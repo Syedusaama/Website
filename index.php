@@ -34,7 +34,13 @@
     <!----------------  Replace Your Microservices With One Simple App.  --------------------> 
     <section class="">
         <div class="container">
-
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
     <!----------------  Replace Your Microservices With One Simple App.  --------------------> 
