@@ -60,17 +60,48 @@
 
 
     <!----------------  Track Customer, Sales & Order Booking  -------------------->
-    <section class="">
+    <section class="track-customer">
         <div class="container">
-
+        <div class="row">
+            <div class="col-md-6">
+                div
+            </div>
+            <div class="col-md-6">
+            <div class="sec-heading">
+                            <h2>Track Customer, Sales & Order Booking</h2>
+                            <p>We develop the relationships that underpin the next phase in your organisation’s Growth. We do this by discerning the We develop the relationships</p>
+            </div>
+        </div>
+    </div>
         </div>
     </section> 
     <!----------------  Track Customer, Sales & Order Booking  --------------------> 
 
     <!----------------  fourth section  -------------------->
-    <section class="">
+    <section class="fourth-section" style="background-image: url(assets/images/bg-third.png);">
         <div class="container">
-
+        <div class="row align-items-center">
+            <div class="col-md-6">
+            <div class="sec-heading">
+                <h2>Track Customer, Sales & Order Booking</h2>
+                <p>We develop the relationships that underpin the next phase in your organisation’s Growth. We do this by discerning the We develop the relationships</p>
+                <ul>
+                    <li>
+                    <i class="fa fa-check-circle">Clean, modern, Design can be used for any type of website.</i>
+                    </li>
+                    <li>
+                    <i class="fa fa-check-circle">The New Ultimate Multi-Purpose WordPress Theme.</i>
+                    </li>
+                    <li>
+                    <i class="fa fa-check-circle">WordPress 5.0Tested and Approved.</i>
+                    </li>
+                </ul>
+            </div>
+            </div>
+            <div class="col-md-6">
+                <img src="assets/images/laptop.png" alt="">
+            </div>
+        </div>
         </div>
     </section> 
     <!----------------  fourth section  --------------------> 
