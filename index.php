@@ -32,12 +32,15 @@
 
 
     <!----------------  Replace Your Microservices With One Simple App.  --------------------> 
-    <section class="">
+    <section class="first-section">
         <div class="container">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="sec-heading text-center">
+                        <div>
+                            <h2>Replace Your Microservices With One Simple App.</h2>
+                            <p>We develop the relationships that underpin the next phase in your organisation’s Growth. We do this by discerning the We develop the relationships</p>
+                        </div>
                     </div>
                 </div>
             </div>
