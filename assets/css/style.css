@@ -492,9 +492,23 @@ ul.dropdown li a:hover {
 /************************ first-section *********************/
 
 .first-section{
-padding-top: 150px;
+padding-top: 250px;
 }
-
+.apple-logo {
+    background-color: #000;
+    border: 1px solid #000000;
+    border-radius: 6px;
+    padding: 5px 15px;
+}
+.playstore-logo {
+    background-color: transparent;
+    border: 1px solid #000000;
+    border-radius: 6px;
+    padding: 12px 15px 5px 15px;;
+}
+.logo-btns{
+    padding-top: 45px;
+}
 /************************ first-section *********************/
 
 

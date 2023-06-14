@@ -40,6 +40,16 @@
                         <div>
                             <h2>Replace Your Microservices With One Simple App.</h2>
                             <p>We develop the relationships that underpin the next phase in your organisation’s Growth. We do this by discerning the We develop the relationships</p>
+                            <div class="logo-btns">
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <a class="apple-logo" href=""><img src="assets/images/app-store.png" alt=""></a>
+                                    <span>
+                                        <a class="playstore-logo" href=""><img src="assets/images/google-play.png" alt=""></a>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
                         </div>
                     </div>
                 </div>
