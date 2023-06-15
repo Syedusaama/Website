@@ -68,8 +68,9 @@
             </div>
             <div class="col-md-6">
             <div class="sec-heading">
-                            <h2>Track Customer, Sales & Order Booking</h2>
-                            <p>We develop the relationships that underpin the next phase in your organisation’s Growth. We do this by discerning the We develop the relationships</p>
+                <h2>Track Customer, Sales & Order Booking</h2>
+                <p>We develop the relationships that underpin the next phase in your organisation’s Growth. We do this by discerning the We develop the relationships</p>
+                <a class="main-btn" href="#">Get Started</a>
             </div>
         </div>
     </div>

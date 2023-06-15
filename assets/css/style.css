@@ -90,6 +90,7 @@ input[type="submit"] {
     transition: all 0.4s ease-In-out;
     display: inline-block;
     cursor: pointer;
+    font-family: 'Jost', sans-serif;
 }
 
 /* a:hover {
@@ -489,6 +490,23 @@ ul.dropdown li a:hover {
 .sec-heading div {
     max-width: 800px;
     margin: 0 auto;
+}
+
+.main-btn{
+    background-image: linear-gradient(to right, #a378de 0%, #9250ee 51%, #8126fe 100%);
+    padding: 25px 35px;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 36px;
+}
+
+.main-btn:hover{
+    background-position: right center;
+    color: #fff;
 }
 
 /************************ first-section *********************/
