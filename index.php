@@ -69,7 +69,6 @@
             <div class="col-md-6">
             <p class="p-clr">Get installed new inventory Management</p>
             <div class="sec-heading">
-
                 <h2>Track Customer, Sales & Order Booking</h2>
                 <p>We develop the relationships that underpin the next phase in your organisation’s Growth. We do this by discerning the We develop the relationships</p>
                 <a class="main-btn" href="#">Get Started</a>
@@ -83,12 +82,13 @@
     <!----------------  fourth section  -------------------->
     <section class="fourth-section" style="background-image: url(assets/images/bg-third.png);">
         <div class="container">
+            <div class="fourth-sec-div">
         <div class="row align-items-center">
             <div class="col-md-6">
             <div class="sec-heading">
                 <h2>Track Customer, Sales & Order Booking</h2>
                 <p>We develop the relationships that underpin the next phase in your organisation’s Growth. We do this by discerning the We develop the relationships</p>
-                <ul>
+                <ul class="track-ul">
                     <li>
                     <i class="fa fa-check-circle">Clean, modern, Design can be used for any type of website.</i>
                     </li>
@@ -99,11 +99,13 @@
                     <i class="fa fa-check-circle">WordPress 5.0Tested and Approved.</i>
                     </li>
                 </ul>
+                <a class="main-btn" href="#">Get Started</a>
             </div>
             </div>
             <div class="col-md-6">
                 <img src="assets/images/laptop.png" alt="">
             </div>
+        </div>
         </div>
         </div>
     </section> 

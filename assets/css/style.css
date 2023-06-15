@@ -494,7 +494,7 @@ ul.dropdown li a:hover {
 
 .main-btn{
     background-image: linear-gradient(to right, #a378de 0%, #9250ee 51%, #8126fe 100%);
-    padding: 25px 35px;
+    padding: 20px 40px;
     text-transform: uppercase;
     font-weight: 500;
     transition: 0.5s;
@@ -542,6 +542,28 @@ padding-top: 250px;
 }
 /************************ track-customer *********************/
 
+
+/************************ fourth-section*********************/
+
+.fourth-section{
+    padding-top: 150px;
+}
+
+.fourth-sec-div{
+    max-width: 1800px;
+}
+.track-ul{
+    padding-bottom: 20px;
+}
+.track-ul li{
+    padding-bottom: 20px;
+}
+.fa-check-circle:before{
+    color: #a378de;
+    padding-right: 10px;
+    font-size: 20px;
+}
+/************************ fourth-section*********************/
 
 
 /***************************** footer*************************************/
